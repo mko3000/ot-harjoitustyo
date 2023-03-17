@@ -1,3 +1,5 @@
+#Tämä gitlog on saatu komennolla git log --stat | cat
+
 commit 41f5ad78f4cb72d6c6ffcc8b06837a67cd067018
 Author: Miko Paajanen <miko.paajanen@gmail.com>
 Date:   Fri Mar 17 19:51:12 2023 +0200

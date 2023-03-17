@@ -1,0 +1,104 @@
+commit 41f5ad78f4cb72d6c6ffcc8b06837a67cd067018
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:51:12 2023 +0200
+
+    tehtiin, mitä piti
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0a3cf8817d33f07342b4df0be43ab2885802efab
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:47:38 2023 +0200
+
+    added files
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b49bf3f4f471b4010a9e34f2524225da7bb70cc5
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:41:30 2023 +0200
+
+    eka ja kolmas muutettu
+
+ eka.txt    | 4 +---
+ kolmas.txt | 2 ++
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+commit 78c468d337ed4f89bd1301c3abf31d43bbbd30bb
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:37:49 2023 +0200
+
+    renamed file
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4c4ad18fb5e17c1b3fbab283a060538678fae283
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:36:34 2023 +0200
+
+    toinen poistettu
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 013ebfc6a8d9d619cf67ab0085f730f9eeb8a65b
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:33:48 2023 +0200
+
+    uutta tekstiä
+
+ tiedosto.txt | 11 ++++-------
+ 1 file changed, 4 insertions(+), 7 deletions(-)
+
+commit 9f78ed8ecbfadead01974f687bfdae378dfac355
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:31:07 2023 +0200
+
+    paljon tekstiä lisätty
+
+ tiedosto.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit be32eee3b3cba25916bc378fd9a87326e221cd44
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:19:36 2023 +0200
+
+    Added stuff
+
+ stuff/text_and_stuff.txt | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit be5d1c9fbf572573c90ea82b30e08a9043c58683
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:08:49 2023 +0200
+
+    kolmas tiedosto lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9c78f7cedd458236167b9b3aa041ce900c44ff03
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 19:04:45 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 3 +++
+ toinen.txt   | 0
+ 2 files changed, 3 insertions(+)
+
+commit e5d421a221145256cf679a18eb3cd7e5f82dfcbe
+Author: Miko Paajanen <miko.paajanen@gmail.com>
+Date:   Fri Mar 17 18:59:57 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+

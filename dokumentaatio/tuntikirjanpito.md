@@ -3,5 +3,5 @@
 | päivä | aika | mitä tein  |
 | :----:|:-----| :-----|
 | 28.3. | 2    | Ohte-työn pohtiminen ja vaatimusmäärittelyn teko |
-|       |      | käyttöliittymän alustava toteutus, todojen luominen |
+|       |      |  |
 

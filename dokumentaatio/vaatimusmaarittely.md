@@ -1,4 +1,4 @@
-# Vaatimusmäärittely
+# Vaatimusmäärittely - Get This Bread
 
 ## Tarkoitus
 
@@ -34,3 +34,4 @@ Ohjelman on aluksi tarkoitus toimia paikallisesti käyttäjän koneella, eikä k
   - Pilvitallennus
   - Kuvien lisääminen leivistä
 - Käyttäjäroolit peruskäyttäjille ja admin-rooli
+

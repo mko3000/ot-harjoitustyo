@@ -1,14 +1,20 @@
 
 def convert_units(quantity, unit):
-    if unit == "cups":
+    if unit == "cups" or unit == "c" or unit == "cup":
         return convert_cups_to_metric(quantity)
-    elif unit == "gallons":
+    elif unit == "gallons" or unit == "g" or unit == "gallon":
         return convert_gallons_to_metric(quantity)
-    elif unit == "ounces":
+    elif unit == "ounces" or unit == "oz" or unit == "ounce":
         return convert_ounces_to_metric(quantity)
-    elif unit == "pounds":
+    elif unit == "pounds" or unit == "lb" or unit == "pound":
         return convert_pounds_to_metric(quantity)
-    elif unit == "desiliters":
+    elif unit == "desiliters" or unit == "dl" or unit == "desiliter":
+        return convert_desiliters_to_imperial(quantity)
+    elif unit == "centiliters" or unit == "cl" or unit == "centiliter":
+        quantity /= 10
+        return convert_desiliters_to_imperial(quantity)
+    elif unit == "milliliters" or unit == "ml" or unit == "milliliter":
+        quantity /= 100
         return convert_desiliters_to_imperial(quantity)
     elif unit == "liters":
         return convert_liters_to_imperial(quantity)

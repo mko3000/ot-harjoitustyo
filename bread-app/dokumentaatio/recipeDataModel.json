@@ -1,0 +1,39 @@
+{
+    "name": "string",
+    "description": "string",
+    "difficulty": "string",
+    "tags": ["string"],
+    "times_made": 0,
+    "ingredients": [
+        {
+            "name": "string",
+            "quantity": "float",
+            "unit": "string",
+            "dietary_info":["string"]
+        },
+        {
+            "name": "string",
+            "quantity": "float",
+            "unit": "string",
+            "dietary_info":["string"]
+        }
+    ],
+    "steps": [
+        {
+            "type": "string",
+            "content": "string",
+            "time_minutes": "integer"
+        },
+        {
+            "type": "string",
+            "content": "string",
+            "time_minutes": "integer"
+        }
+    ],
+    "reviews": [
+        {
+            "rating": "integer",
+            "comment": "string"
+        }
+    ]
+}

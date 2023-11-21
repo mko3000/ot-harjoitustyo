@@ -1,12 +1,9 @@
 # OHTE
 Git-repositio ohjelmistotekniikan harjoituksia varten\
-Oma harjoitystyö *Epich Epoch* kansiossa **[epic-epoch-app/](epic-epoch-app)**
-<<<<<<< HEAD
-##Ohjelmistotekniikka harjoitustyö
+Oma harjoitystyö *EpichEpoch* kansiossa **[epic-epoch-app/](epic-epoch-app)**
+
 Oma harjoitustyö *EpicEpoch*, työkalu päivämäärien ja kellonaikojen muuttamiseen unix-timestampeiksi ja toisin päin eri aikavyöhykkeille.
 
-=======
->>>>>>> e96110ed8e3e3d7f62de2c1ecb7e17987c94fc81
 ## Viikko1
 *Viikon 1* harjoitukset kansiossa **[laskarit/viikko1/](laskarit/viikko1/)**
 - [komentorivi.txt](laskarit/viikko1/komentorivi.txt)

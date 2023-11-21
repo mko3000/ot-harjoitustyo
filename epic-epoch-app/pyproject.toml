@@ -8,6 +8,7 @@ packages = [{include = "epic_epoch_app"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pytest = "^7.4.3"
 
 
 [tool.poetry.group.dev.dependencies]

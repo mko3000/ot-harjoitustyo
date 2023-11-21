@@ -4,6 +4,11 @@ Oma harjoitystyö *EpichEpoch* kansiossa **[epic-epoch-app/](epic-epoch-app)**
 
 Oma harjoitustyö *EpicEpoch*, työkalu päivämäärien ja kellonaikojen muuttamiseen unix-timestampeiksi ja toisin päin eri aikavyöhykkeille.
 
+## Dokumentaatio
+- [vaatimusmäärittely](epic-epoch-app/dokumentaatio/vaatimusmaarittely.md) kansiossa **epic-epoch-app/dokuumentaatio/**
+- [changelog](epic-epoch-app/dokumentaatio/changelog.md) kansiossa **epic-epoch-app/dokuumentaatio/**
+
+<!--
 ## Viikko1
 *Viikon 1* harjoitukset kansiossa **[laskarit/viikko1/](laskarit/viikko1/)**
 - [komentorivi.txt](laskarit/viikko1/komentorivi.txt)
@@ -17,3 +22,4 @@ Oma harjoitustyö *EpicEpoch*, työkalu päivämäärien ja kellonaikojen muutta
 ## Viikko3 
 *Viikon 3* harjoitukset kansiossa **[laskarit/viikko3/](laskarit/viikko3/)**
 - [changelog](epic-epoch-app/dokumentaatio/changelog.md) kansiossa **epic-epoch-app/dokuumentaatio/**)
+-->

@@ -4,6 +4,12 @@ Oma harjoitystyö *EpichEpoch* kansiossa **[epic-epoch-app/](epic-epoch-app)**
 
 Oma harjoitustyö *EpicEpoch*, työkalu päivämäärien ja kellonaikojen muuttamiseen unix-timestampeiksi ja toisin päin eri aikavyöhykkeille.
 
+⚠️ **Huom! Ohjelmassa ei ole vielä mitään toiminnallisuutta käyttäjälle.**
+Testit muutamalle TimeConverter luokan metodille löytyy. Voi koittaa komennolla 
+```bash
+poetry run invoke coverage-report
+```
+
 ## Dokumentaatio
 - [vaatimusmäärittely](epic-epoch-app/dokumentaatio/vaatimusmaarittely.md) kansiossa **epic-epoch-app/dokuumentaatio/**
 - [changelog](epic-epoch-app/dokumentaatio/changelog.md) kansiossa **epic-epoch-app/dokuumentaatio/**

@@ -1,6 +1,9 @@
 # OHTE
 Git-repositio ohjelmistotekniikan harjoituksia varten\
-Oma harjoitystyö *Get This Bread* kansiossa **[bread-app/](bread-app/)**
+<!--Oma harjoitystyö *Get This Bread* kansiossa **[bread-app/](bread-app/)**-->
+##Ohjelmistotekniikka harjoitustyö
+Oma harjoitustyö *EpicEpoch*, työkalu päivämäärien ja kellonaikojen muuttamiseen unix-timestampeiksi ja toisin päin eri aikavyöhykkeille.
+
 ## Viikko1
 *Viikon 1* harjoitukset kansiossa **[laskarit/viikko1/](laskarit/viikko1/)**
 - [komentorivi.txt](laskarit/viikko1/komentorivi.txt)

@@ -16,3 +16,4 @@ Oma harjoitustyö *EpicEpoch*, työkalu päivämäärien ja kellonaikojen muutta
 
 ## Viikko3 
 *Viikon 3* harjoitukset kansiossa **[laskarit/viikko3/](laskarit/viikko3/)**
+- [changelog](epic-epoch-app/dokumentaatio/changelog.md) kansiossa **epic-epoch-app/dokuumentaatio/**)

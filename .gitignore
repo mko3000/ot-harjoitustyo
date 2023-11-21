@@ -8,3 +8,6 @@ __pycache__
 *$py.class
 
 bread-app/ot-harjoitustyo.code-workspace
+epic-epoch-app/ot-harjoitustyo.code-workspace
+bread-app/*
+

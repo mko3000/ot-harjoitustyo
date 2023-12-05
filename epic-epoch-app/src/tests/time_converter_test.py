@@ -4,7 +4,7 @@ from time_converter import TimeConverter
 
 class TestTimeConverter(unittest.TestCase):
     def setUp(self) -> None:
-        self.converter = TimeConverter(0)
+        self.converter = TimeConverter()
     
     def test_millis_to_datetime_correctly(self):
         self.assertEqual(self.converter.millis_to_datetime(1700517600000), datetime(year=2023,month=11,day=21))

@@ -13,7 +13,7 @@ def main():
         date_input = str(input("Input date or timestamp, type 'exit' to quit\n"))
         if date_input == "exit":
             break
-        lukija = InputReader(date_input)
+        ukilja = InputReader(date_input)
         print(lukija)
         #lukija.read(1701724648)
 

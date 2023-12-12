@@ -23,6 +23,7 @@ class InputReader:
         
     def convert(self):
         self.result = self._recognize_format()
+        #return self.result
 
     def _recognize_format(self):
         if self._converts_to_number(self.input):
@@ -39,6 +40,8 @@ class InputReader:
             elif self.input < 10000000000000:
                 self.format = "milliseconds"
                 return self.converter.millis_to_datetime(self.input)
+            else:
+                self.format = "not supported"
         elif self._is_datetime(self.input):
             self.format = "datetime"
         else: 
